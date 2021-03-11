@@ -11,9 +11,12 @@
     "expo": "^39.0.4",
     "expo-status-bar": "~1.0.2",
     "firebase": "7.9.0",
+    "firestore": "^1.1.6",
+    "lodash.filter": "^4.6.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.4.tar.gz",
+    "react-native-elements": "^3.3.0",
     "react-native-paper": "^4.3.0",
     "react-native-web": "~0.13.12"
   },
